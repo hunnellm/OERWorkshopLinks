@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "Links",
-  "body": " Links   Discrete Open Math (textbook)   Understanding Linear Algebra (textbook)    Tien Chih Github    Prefigure documentation    Matrix Theory (textbook) Github    doenet.org    PreTeXt documentation for web hosting    WebWork Open Problem Library    Runestone Academy    PreTeXt for Instructors    Annotated example    PreFigure Playground    PreFigure Documentation    PreFigure codespace (github)    Linear Algebra for Team Based Inquiry Learning    GitHub for Mathematicians    Sage Cell Server    PreTeXt codespace (GitHub)    TBIL Examples    Syllabus worksheet demo (GitHub)    Syllabus Worksheet demo (Website)    PreTeXt Examples from documentation    Doenet (alpha site)    GeoGebra    Desmos    "
+  "body": " Links   Discrete Open Math (textbook)   Understanding Linear Algebra (textbook)    Tien Chih Github    Prefigure documentation    Matrix Theory (textbook) Github    doenet.org    PreTeXt documentation for web hosting    WebWork Open Problem Library    Runestone Academy    PreTeXt for Instructors    Annotated example    PreFigure Playground    PreFigure Documentation    PreFigure codespace (github)    Linear Algebra for Team Based Inquiry Learning    GitHub for Mathematicians    Sage Cell Server    PreTeXt codespace (GitHub)    TBIL Examples    Syllabus worksheet demo (GitHub)    Syllabus Worksheet demo (Website)    PreTeXt Examples from documentation    Doenet (alpha site)    GeoGebra    Desmos    Interactive Exercises    "
 }
 ]
 
