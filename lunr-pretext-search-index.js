@@ -1,22 +1,13 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "shorttitlelowercase-2",
+  "id": "shorttitlelowercase",
   "level": "1",
-  "url": "shorttitlelowercase-2.html",
-  "type": "Front Matter",
+  "url": "shorttitlelowercase.html",
+  "type": "Article",
   "number": "",
-  "title": "Front Matter",
-  "body": "  OER Workshop Participants    Collection of useful links from the AIM Workshop Open educational resources: adoption, curation, and customization    "
-},
-{
-  "id": "section-1",
-  "level": "1",
-  "url": "section-1.html",
-  "type": "Section",
-  "number": "1",
-  "title": "Links",
-  "body": " Links   Discrete Open Math (textbook)   Understanding Linear Algebra (textbook)    Tien Chih Github    Prefigure documentation    Matrix Theory (textbook) Github    doenet.org    PreTeXt documentation for web hosting    WebWork Open Problem Library    Runestone Academy    PreTeXt for Instructors    Annotated example    PreFigure Playground    PreFigure Documentation    PreFigure codespace (github)    Linear Algebra for Team Based Inquiry Learning    GitHub for Mathematicians    Sage Cell Server    PreTeXt codespace (GitHub)    TBIL Examples    Syllabus worksheet demo (GitHub)    Syllabus Worksheet demo (Website)    PreTeXt Examples from documentation    Doenet (alpha site)    GeoGebra    Desmos    Interactive Exercises    "
+  "title": "Links from OER Workshop 2025",
+  "body": " Links from OER Workshop 2025    OER Workshop Participants    Collection of useful links from the AIM Workshop Open educational resources: adoption, curation, and customization        Discrete Open Math (textbook)   Understanding Linear Algebra (textbook)    Tien Chih Github    Prefigure documentation    Matrix Theory (textbook) Github    doenet.org    PreTeXt documentation for web hosting    WebWork Open Problem Library    Runestone Academy    PreTeXt for Instructors    Annotated example    PreFigure Playground    PreFigure Documentation    PreFigure codespace (github)    Linear Algebra for Team Based Inquiry Learning    GitHub for Mathematicians    Sage Cell Server    PreTeXt codespace (GitHub)    TBIL Examples    Syllabus worksheet demo (GitHub)    Syllabus Worksheet demo (Website)    PreTeXt Examples from documentation    Doenet (alpha site)    GeoGebra    Desmos    Interactive Exercises      "
 }
 ]
 
