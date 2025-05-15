@@ -1,9 +1,9 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "shorttitlelowercase",
+  "id": "OER-2025-links",
   "level": "1",
-  "url": "shorttitlelowercase.html",
+  "url": "OER-2025-links.html",
   "type": "Article",
   "number": "",
   "title": "Links from OER Workshop 2025",
